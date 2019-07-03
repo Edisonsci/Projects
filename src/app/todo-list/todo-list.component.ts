@@ -69,5 +69,4 @@ export class TodoListComponent implements OnInit {
     this.editingTodo = new Todo();
     this.editing = false;
   }
-  
 }
